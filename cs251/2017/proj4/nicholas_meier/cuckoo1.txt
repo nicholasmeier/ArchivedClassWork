@@ -1,0 +1,155 @@
+9516234881 2222239
+153
+size
+put 23 32
+put 12 360
+get 12
+put 12 95
+get 12
+put 56 111
+contains 84
+delete 84
+put 84 234
+contains 84
+delete 12
+put 77 4096
+put 95 59
+put 2222 645
+size
+put 1 14
+put 10 140
+put 100 1400
+put 1000 14000
+put 101 100
+put 9663 3669
+put 847 48
+put 762 238
+put 625 95
+put 252 96
+delete 101
+put 474 100
+put 101 100
+get 101
+get 474
+put 5694 10101
+get 12
+put 12 999
+put 82 84
+put 9876 5432
+put 1 2
+put 2 2
+put 3 2
+put 4 2
+put 5 4
+put 6 7
+put 99 22
+put 18 95
+put 143 346
+put 225 249
+put 918 345
+put 11 33
+put 45 21
+put 88 99
+put 22 55
+delete 22
+put 44 29
+put 274 82
+put 396 972
+put 445 499
+put 959 874
+put 705 608
+put 164 490
+put 23 770
+put 430 217
+put 274 270
+put 13 360
+put 741 307
+put 530 678
+put 784 302
+put 838 839
+put 155 378
+put 875 243
+put 172 114
+put 388 585
+put 590 376
+put 21 299
+put 558 454
+put 521 206
+put 905 51
+put 904 177
+put 747 84
+put 282 440
+put 221 810
+put 659 757
+put 161 898
+put 417 500
+put 366 579
+put 779 782
+put 656 775
+put 867 373
+put 954 87
+put 528 653
+put 23 952
+put 363 652
+put 266 669
+put 877 157
+put 884 164
+put 236 309
+put 228 651
+put 515 145
+put 50 218
+put 380 306
+put 405 366
+put 568 558
+put 287 10
+put 344 64
+put 236 688
+put 219 647
+put 34 258
+put 528 419
+put 494 798
+put 844 958
+put 89 75
+put 341 746
+put 397 481
+put 890 915
+put 767 116
+put 361 262
+put 681 69
+put 133 510
+put 230 223
+put 241 316
+put 182 215
+put 186 932
+put 8 120
+put 548 684
+put 219 746
+put 301 650
+put 724 31
+put 337 990
+put 428 382
+put 802 23
+put 628 275
+put 781 808
+put 416 95
+put 153 349
+put 402 382
+put 197 520
+put 11 799
+put 14 263
+put 243 956
+put 983 506
+put 348 200
+put 741 405
+put 784 504
+put 435 740
+put 796 497
+put 977 211
+put 405 360
+put 88 71
+put 712 187
+put 898 357
+put 884 244
+put 638 9
+put 479 210
+put 990 495
