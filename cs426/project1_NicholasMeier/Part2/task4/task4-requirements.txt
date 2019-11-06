@@ -1,0 +1,44 @@
+Task 4
+For task 4, you should complete the following questions. Put your responses into a PDF along with your responses to task5. 
+
+1. What is does the register ebp typically hold and what ebp value is pushed on the stack in a normal stack frame (x86 32 bit)?
+	
+ 
+2. What does the following x86 assembly instruction do (note destination address comes second here)? 
+	lea -0x20(%ebp),%eax
+	
+ 
+In this directory there is a Linux executable file named "task4" that has several vulnerabilities you will exploit Run the program and enter a password attempt to familiarize yourself with the program. 
+For this problem you will need to answer the following questions using readelf or objdump (or other programs of your choice).
+
+
+3. In the source code found in task4.c, we can see that the programmer hardcoded a password. Use one of the tools above to disassemble the binary and try to guess the password amongst the strings present. What is the correct password? 
+
+4. Looking carefully at the source code or disassembled file identify a potential buffer overflow and how it can be used to bypass the password authentication code. 
+
+Exploiting the above:
+5. Run the 'objdump -D -s task4' and navigate to the disassembled code for the authenticate function.
+	A note: Adding the -Mintel to objdump will display the disassembly in intel sytax instead of AT&T syntax
+
+6. Include the disassembled output of the authenticate function (copy & paste it).
+		
+		 
+7. In relation to ebp, where is the variable pass stored (Hint: Use the initial value of pass to find the instruction)? Explain how you figured this out.
+
+ 
+8. In relation to ebp, where is the variable buff stored (Hint: Use the call to gets( ) as a reference point)? Explain how you figured this out.
+		
+		 
+9. How many bytes long is the buffer that holds the entered password? Explain how you determined this.
+		
+	
+10. What is the minimum number of characters a user has to enter in order to overflow the buffer and write a nonzero value to the variable pass (Hint: the null terminator in a string has a value of 0)?
+		
+11. Use a hexeditor to open the binary file and search for the correct password found at the start of this exercise. Change the password so that the word "bad" is turned into "good". and save the binary. Try to enter your modified password into the changed binary. Did it work? Include a screenshot of the program running with your entry attempt.
+	Example: If the password is: 'catsarebad', you should edit the password to be 'catsaregood.'
+	
+	
+12. Briefly explain how to eliminate the vulnerabilities in this program.
+
+		
+13. Is it a good idea to store sensitive information as a plaintext character array? What are some alternatives? How does the Linux login program handle storing user passwords? 

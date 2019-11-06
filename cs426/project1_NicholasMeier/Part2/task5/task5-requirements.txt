@@ -1,0 +1,17 @@
+For task 5, you should answer the following questions. Put your answers into a PDF form, along with your answers to task4.
+
+1. Use objdump to disassemble the binary. Navigate to portion of output for function1.
+	NOTE: this binary is much larger then the previous, pipe objdump into the "less" or "more" command to avoid waiting for your teminal to stop scrolling.
+
+2. In relation to ebp, where is the beginning of the character buffer used to store the string?
+		
+3. What is the minimum number of bytes you need to write to the character buffer in order to overwrite the return address?
+		
+4. How many bytes are in an address for a 32 bit binary? What is the minimum number of addresses you need to write from the beginning of the character array to overwrite the return address?
+		
+5. What is the address of function2?
+		
+6. Modify the file, Input Gen/main.c to rewrite the return address with the address for function2 when function1 is called. Run make to compile the binary for the input generator, Input Gen/input gen. Pipe the output of the input generator to the original program. To do this make sure your working directory is task5/ and then run the command, Input Gen/input gen | ./task5 .
+
+7. Include your output of the programming calling function2 (in a screenshot). (Note it is ok if an error occurs after function2 runs). Include the full source code for your input generator and explain why the attack succeeded.
+

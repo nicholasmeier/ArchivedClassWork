@@ -1,0 +1,26 @@
+Task1 has an exploitable that can be used
+other texts have vulnerabilities, but cannot be exploited due to the OS security measures
+at least 3 exploits exist in part 1, 7 in total
+
+Only identify the vulnerabilities for part 1, exploit the one that can be
+
+Task1 exploit --> c compiler doesn't automatically check if the input value is unsigned
+ - Fix this by reading in the input string and determining if there is a negative sign in it
+
+Task2 exploit --> buffer overflow, if name is a string with 10 or more characters, it will overflow
+into the grades array (i think)
+ - Fix --> the OS has something to do with this? 
+ - Fix --> check the input length and shit idk
+
+Task3 exploit --> something to do with buffer overflow and stack smashing
+ - Similar to task2, I think, but the OS doesn't let you do stuff i think
+
+Part 2
+objdump -D -S
+xxd (i think)
+stack = fifo, grow downward
+| stack |  bottom
+|   |	|
+|   |	|
+|  \ /	| top --> where stuff is popped
+|   	|

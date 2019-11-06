@@ -1,0 +1,193 @@
+        -:    0:Source:main.c
+        -:    0:Graph:main.gcno
+        -:    0:Data:main.gcda
+        -:    0:Runs:17
+        -:    0:Programs:1
+        -:    1:/*
+        -:    2: * Copyright (c) 2014 Kaprica Security, Inc.
+        -:    3: *
+        -:    4: * Permission is hereby granted, free of charge, to any person obtaining a copy
+        -:    5: * of this software and associated documentation files (the "Software"), to deal
+        -:    6: * in the Software without restriction, including without limitation the rights
+        -:    7: * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        -:    8: * copies of the Software, and to permit persons to whom the Software is
+        -:    9: * furnished to do so, subject to the following conditions:
+        -:   10: *
+        -:   11: * The above copyright notice and this permission notice shall be included in
+        -:   12: * all copies or substantial portions of the Software.
+        -:   13: *
+        -:   14: * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        -:   15: * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        -:   16: * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        -:   17: * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        -:   18: * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        -:   19: * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+        -:   20: * THE SOFTWARE.
+        -:   21: *
+        -:   22: */
+        -:   23:
+        -:   24:// #include <libcgc.h>
+        -:   25:#include <stdio.h>
+        -:   26:#include <stdarg.h>
+        -:   27:#include <stdlib.h>
+        -:   28:#include <string.h>
+        -:   29:#include <ctype.h>
+        -:   30:
+        -:   31:#include "meow.h"
+        -:   32:
+        -:   33:#define MAX_MEOW_LENGTH 8192
+        -:   34:
+        -:   35:meow_parser_t *parser;
+        -:   36:meow_item_t *my_meow;
+        -:   37:
+      219:   38:int read_until(FILE* fp, char *buf, size_t len, char delim)
+        -:   39:{
+        -:   40:    size_t i;
+      219:   41:    char *c = buf;
+        -:   42:
+     2214:   43:    for (i = 0; i < len; ++i) {
+        -:   44:        size_t rx;
+        -:   45:
+     2214:   46:        if ((rx = fread(c, 1, 1, fp)) != 1)
+    #####:   47:            return -1;
+        -:   48:
+     2214:   49:        if (*(c++) == delim)
+      219:   50:            break;
+        -:   51:    }
+        -:   52:
+      219:   53:    *(c - 1) = '\0';
+      219:   54:    return c - buf;
+        -:   55:}
+        -:   56:
+       54:   57:void import_MEOW(char *buf)
+        -:   58:{
+       54:   59:    if (my_meow != NULL) {
+       27:   60:        free_meow_item(my_meow);
+       27:   61:        my_meow = NULL;
+        -:   62:    }
+        -:   63:
+       54:   64:    parser->cats = 0;
+       54:   65:    my_meow = parser->loads(buf);
+        -:   66:
+       54:   67:    if (my_meow == NULL)
+       17:   68:        printf("Error!\n");
+       54:   69:}
+        -:   70:
+       63:   71:void print_MEOW()
+        -:   72:{
+       63:   73:    if (my_meow == NULL) {
+       28:   74:        printf("Error!\n");
+       28:   75:        return;
+        -:   76:    }
+        -:   77:
+       35:   78:    parser->cats = 0;
+       35:   79:    parser->dumps(my_meow);
+       35:   80:    printf("\n");
+        -:   81:}
+        -:   82:
+       23:   83:void nyan()
+        -:   84:{
+        -:   85:    int i;
+        -:   86:    char *c;
+       23:   87:    char buf[256] = {0};
+       23:   88:    char *nyan_cat = "\n\n\
+        -:   89:+      o     +              o\n\
+        -:   90:    +             o     +       +\n\
+        -:   91:o          +\n\
+        -:   92:    o  +           +        +\n\
+        -:   93:+        o     o       +        o\n\
+        -:   94:-_-_-_-_-_-_-_,------,      o\n\
+        -:   95:_-_-_-_-_-_-_-|   /\\_/\\\n\
+        -:   96:-_-_-_-_-_-_-~|__( ^ .^)  +     +\n\
+        -:   97:_-_-_-_-_-_-_-\"\"  \"\"\n\
+        -:   98:+      o         o   +       o\n\
+        -:   99:    +         +\n\
+        -:  100:o        o         o      o     +\n\
+        -:  101:    o           +\n\
+        -:  102:+      +     o        o      +\n\n";
+        -:  103:
+       23:  104:    if (my_meow == NULL) {
+        2:  105:        printf("Error!\n");
+        2:  106:        return;
+        -:  107:    }
+        -:  108:
+       21:  109:    parser->dumps(my_meow);
+       21:  110:    printf("\n");
+        -:  111:
+       21:  112:    if (parser->cats < 3)
+       19:  113:        return;
+        -:  114:
+        2:  115:    printf("%s", nyan_cat);
+        2:  116:    c = buf;
+        -:  117:
+        2:  118:    for (i = 0; i < array_length(parser->nyan_says); ++i) {
+    #####:  119:        meow_item_t *item = array_get(parser->nyan_says, i);
+    #####:  120:        strcpy(c, item->item.i_string.s);
+    #####:  121:        c += item->item.i_string.len;
+        -:  122:    }
+        -:  123:
+        2:  124:    printf("NYAN SAYS...\n\"\n%s\n\"\n", buf);
+        -:  125:}
+        -:  126:
+       17:  127:void quit()
+        -:  128:{
+       17:  129:    printf("\n\n=^.^=// Bye!\n\n");
+       17:  130:    exit(0);
+        -:  131:}
+        -:  132:
+       17:  133:void menu()
+        -:  134:{
+       17:  135:    printf("=======================\n");
+       17:  136:    printf(" 1. Import MEOW\n");
+       17:  137:    printf(" 2. Print MEOW\n");
+       17:  138:    printf(" 3. Quit\n");
+       17:  139:    printf("=======================\n");
+       17:  140:}
+        -:  141:
+       17:  142:int main()
+        -:  143:{
+        -:  144:    // disable buffering on stdout
+       17:  145:    setvbuf(stdout, NULL, _IONBF, 0);
+        -:  146:    char buf[MAX_MEOW_LENGTH];
+        -:  147:    char select[16];
+       17:  148:    printf("MEOW Pretty Printer v0.1\n");
+       17:  149:    parser = (meow_parser_t *) malloc(sizeof(meow_parser_t));
+       17:  150:    meow_init(parser);
+       17:  151:    menu();
+       17:  152:    printf("> ");
+        -:  153:
+      182:  154:    while (read_until(stdin, select, sizeof(select), '\n') > 0) {
+      165:  155:        int menu = strtol(select, NULL, 10);
+        -:  156:
+      165:  157:        switch (menu) {
+       54:  158:        case 1:
+       54:  159:            printf("MEOW? ");
+        -:  160:
+       54:  161:            if (read_until(stdin, buf, MAX_MEOW_LENGTH, '\n') > 0)
+       54:  162:                import_MEOW(buf);
+        -:  163:            else
+    #####:  164:                printf("Error!\n");
+        -:  165:
+       54:  166:            break;
+        -:  167:
+       63:  168:        case 2:
+       63:  169:            print_MEOW();
+       63:  170:            break;
+        -:  171:
+       17:  172:        case 3:
+       17:  173:            quit();
+        -:  174:
+       23:  175:        case 777:
+       23:  176:            nyan();
+       23:  177:            break;
+        -:  178:
+        8:  179:        default:
+        8:  180:            printf("Invalid menu. Try again.\n");
+        8:  181:            break;
+        -:  182:        }
+        -:  183:
+      148:  184:        printf("> ");
+        -:  185:    }
+        -:  186:
+    #####:  187:    return 0;
+        -:  188:}
