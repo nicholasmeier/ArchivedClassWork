@@ -1,0 +1,7 @@
+problem_1: 25/25
+problem_2: 12/25
+problem_3: 24/25
+problem_4: 25/25
+
+CS240: Exam3. nmeier Sun Apr 30 23:30:11 EDT 2017
+Total Grade: 86/100

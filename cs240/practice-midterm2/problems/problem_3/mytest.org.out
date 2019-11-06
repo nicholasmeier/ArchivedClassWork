@@ -1,0 +1,7 @@
+Running test4
+List 1
+{0, 3, 6, 9, 12, 15, 18, 21, 24, 27, 30}
+List 2
+{0, 5, 10, 15, 20, 25, 30}
+Intersection of List 1 and List 2
+{0, 15, 30}

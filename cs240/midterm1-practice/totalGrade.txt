@@ -1,0 +1,11 @@
+task1/task14.c : 20/20
+task2/task22.c : 25/30
+task3/task29.c : 15/30
+task4/task35
+task35.c
+task35.o
+task35.out : 35/50
+task5/task33.c : 45/50
+
+CS240: Exam1. nmeier Wed Feb 8 20:41:23 EST 2017
+Total Grade: 140/180

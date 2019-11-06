@@ -1,0 +1,300 @@
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. ifransig   
+Tue Feb 23 16:21:05 EST 2016
+-------------------------------------------------
+task22 abcde abcd                   : 5   of 5  
+task22 hello hellO                  : 5   of 5  
+task22 "abc abc" " abc abc"         : 5   of 5  
+task22 "abcabc" "abcabc "           : 5   of 5  
+task22 " " " "                      : 5   of 5  
+task22 "" " "                       : 0   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. ifransig Tue Feb 23 16:21:05 EST 2016  Total:  25 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. ifransig   
+Tue Feb 23 16:37:56 EST 2016
+-------------------------------------------------
+task22 abcde abcd                   : 5   of 5  
+task22 hello hellO                  : 5   of 5  
+task22 "abc abc" " abc abc"         : 0   of 5  
+task22 "abcabc" "abcabc "           : 5   of 5  
+task22 " " " "                      : 5   of 5  
+task22 "" " "                       : 0   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. ifransig Tue Feb 23 16:37:56 EST 2016  Total:  20 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. ifransig   
+Tue Feb 23 16:39:01 EST 2016
+-------------------------------------------------
+task22 abcde abcd                   : 5   of 5  
+task22 hello hellO                  : 5   of 5  
+task22 "abc abc" " abc abc"         : 0   of 5  
+task22 "abcabc" "abcabc "           : 5   of 5  
+task22 " " " "                      : 5   of 5  
+task22 "" " "                       : 0   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. ifransig Tue Feb 23 16:39:01 EST 2016  Total:  20 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. cs240   
+Mon Jan 30 22:26:59 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 0   of 5  
+task22 hello hellO                  : 0   of 5  
+task22 "abc abc" " abc abc"         : 0   of 5  
+task22 "abcabc" "abcabc "           : 0   of 5  
+task22 " " " "                      : 5   of 5  
+task22 "" " "                       : 0   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. cs240 Mon Jan 30 22:26:59 EST 2017  Total:  5 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. cs240   
+Mon Jan 30 22:27:44 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 0   of 5  
+task22 hello hellO                  : 0   of 5  
+task22 "abc abc" " abc abc"         : 0   of 5  
+task22 "abcabc" "abcabc "           : 0   of 5  
+task22 " " " "                      : 5   of 5  
+task22 "" " "                       : 0   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. cs240 Mon Jan 30 22:27:44 EST 2017  Total:  5 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. cs240   
+Mon Jan 30 22:30:34 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 0   of 5  
+task22 hello hellO                  : 0   of 5  
+task22 "abc abc" " abc abc"         : 0   of 5  
+task22 "abcabc" "abcabc "           : 0   of 5  
+task22 " " " "                      : 5   of 5  
+task22 "" " "                       : 0   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. cs240 Mon Jan 30 22:30:34 EST 2017  Total:  5 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. cs240   
+Mon Jan 30 22:37:46 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 0   of 5  
+task22 hello hellO                  : 0   of 5  
+task22 "abc abc" " abc abc"         : 0   of 5  
+task22 "abcabc" "abcabc "           : 0   of 5  
+task22 " " " "                      : 5   of 5  
+task22 "" " "                       : 0   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. cs240 Mon Jan 30 22:37:46 EST 2017  Total:  5 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. cs240   
+Mon Jan 30 22:40:43 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 0   of 5  
+task22 hello hellO                  : 0   of 5  
+task22 "abc abc" " abc abc"         : 0   of 5  
+task22 "abcabc" "abcabc "           : 0   of 5  
+task22 " " " "                      : 5   of 5  
+task22 "" " "                       : 0   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. cs240 Mon Jan 30 22:40:43 EST 2017  Total:  5 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. cs240   
+Mon Jan 30 22:41:11 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 0   of 5  
+task22 hello hellO                  : 0   of 5  
+task22 "abc abc" " abc abc"         : 0   of 5  
+task22 "abcabc" "abcabc "           : 0   of 5  
+task22 " " " "                      : 5   of 5  
+task22 "" " "                       : 0   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. cs240 Mon Jan 30 22:41:11 EST 2017  Total:  5 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. cs240   
+Mon Jan 30 22:41:45 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 0   of 5  
+task22 hello hellO                  : 0   of 5  
+task22 "abc abc" " abc abc"         : 0   of 5  
+task22 "abcabc" "abcabc "           : 0   of 5  
+task22 " " " "                      : 5   of 5  
+task22 "" " "                       : 0   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. cs240 Mon Jan 30 22:41:45 EST 2017  Total:  5 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. cs240   
+Mon Jan 30 22:42:29 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 0   of 5  
+task22 hello hellO                  : 0   of 5  
+task22 "abc abc" " abc abc"         : 0   of 5  
+task22 "abcabc" "abcabc "           : 0   of 5  
+task22 " " " "                      : 5   of 5  
+task22 "" " "                       : 0   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. cs240 Mon Jan 30 22:42:29 EST 2017  Total:  5 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. cs240   
+Mon Jan 30 22:42:49 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 0   of 5  
+task22 hello hellO                  : 0   of 5  
+task22 "abc abc" " abc abc"         : 0   of 5  
+task22 "abcabc" "abcabc "           : 0   of 5  
+task22 " " " "                      : 5   of 5  
+task22 "" " "                       : 0   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. cs240 Mon Jan 30 22:42:49 EST 2017  Total:  5 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. nmeier   
+Thu Feb  2 09:08:31 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 5   of 5  
+task22 hello hellO                  : 5   of 5  
+task22 "abc abc" " abc abc"         : 5   of 5  
+task22 "abcabc" "abcabc "           : 5   of 5  
+task22 " " " "                      : 0   of 5  
+task22 "" " "                       : 5   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. nmeier Thu Feb 2 09:08:31 EST 2017  Total:  25 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. nmeier   
+Wed Feb  8 11:28:01 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 5   of 5  
+task22 hello hellO                  : 5   of 5  
+task22 "abc abc" " abc abc"         : 5   of 5  
+task22 "abcabc" "abcabc "           : 5   of 5  
+task22 " " " "                      : 0   of 5  
+task22 "" " "                       : 5   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. nmeier Wed Feb 8 11:28:01 EST 2017  Total:  25 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. nmeier   
+Wed Feb  8 11:36:44 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 5   of 5  
+task22 hello hellO                  : 5   of 5  
+task22 "abc abc" " abc abc"         : 5   of 5  
+task22 "abcabc" "abcabc "           : 5   of 5  
+task22 " " " "                      : 0   of 5  
+task22 "" " "                       : 5   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. nmeier Wed Feb 8 11:36:44 EST 2017  Total:  25 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. nmeier   
+Wed Feb  8 12:05:36 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 5   of 5  
+task22 hello hellO                  : 5   of 5  
+task22 "abc abc" " abc abc"         : 5   of 5  
+task22 "abcabc" "abcabc "           : 5   of 5  
+task22 " " " "                      : 0   of 5  
+task22 "" " "                       : 5   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. nmeier Wed Feb 8 12:05:36 EST 2017  Total:  25 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. nmeier   
+Wed Feb  8 18:34:54 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 5   of 5  
+task22 hello hellO                  : 5   of 5  
+task22 "abc abc" " abc abc"         : 5   of 5  
+task22 "abcabc" "abcabc "           : 5   of 5  
+task22 " " " "                      : 0   of 5  
+task22 "" " "                       : 5   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. nmeier Wed Feb 8 18:34:54 EST 2017  Total:  25 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. nmeier   
+Wed Feb  8 19:21:26 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 5   of 5  
+task22 hello hellO                  : 5   of 5  
+task22 "abc abc" " abc abc"         : 5   of 5  
+task22 "abcabc" "abcabc "           : 5   of 5  
+task22 " " " "                      : 0   of 5  
+task22 "" " "                       : 5   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. nmeier Wed Feb 8 19:21:26 EST 2017  Total:  25 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. nmeier   
+Wed Feb  8 20:29:52 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 5   of 5  
+task22 hello hellO                  : 5   of 5  
+task22 "abc abc" " abc abc"         : 5   of 5  
+task22 "abcabc" "abcabc "           : 5   of 5  
+task22 " " " "                      : 0   of 5  
+task22 "" " "                       : 5   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. nmeier Wed Feb 8 20:29:52 EST 2017  Total:  25 of 30
+
+
+
+-------------------------------------------------
+CS240 Midterm 1: mystrcmp. nmeier   
+Wed Feb  8 20:41:23 EST 2017
+-------------------------------------------------
+task22 abcde abcd                   : 5   of 5  
+task22 hello hellO                  : 5   of 5  
+task22 "abc abc" " abc abc"         : 5   of 5  
+task22 "abcabc" "abcabc "           : 5   of 5  
+task22 " " " "                      : 0   of 5  
+task22 "" " "                       : 5   of 5  
+-------------------------------------------------
+CS240 - Midterm 1: mystrcmp. nmeier Wed Feb 8 20:41:23 EST 2017  Total:  25 of 30
+

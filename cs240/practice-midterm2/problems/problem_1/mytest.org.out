@@ -1,0 +1,8 @@
+Running test8
+STR1 = purude
+STR2 = edurpu
+Is a permutation
+
+STR1 = abd
+STR2 = cbb
+Not a permutation

@@ -1,0 +1,2924 @@
+
+
+-------------------------------------------------
+CS240: Lab 3. cs240   
+Mon Sep  7 10:24:13 EDT 2015
+-------------------------------------------------
+./countlines in1                    : 0   of 4  
+./countlines in2                    : 0   of 4  
+./countlines hamlet                 : 0   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. cs240   
+Mon Sep  7 10:26:04 EDT 2015
+-------------------------------------------------
+./countlines in1                    : 0   of 4  
+./countlines in2                    : 0   of 4  
+./countlines hamlet                 : 0   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. cs240   
+Mon Sep  7 10:26:39 EDT 2015
+-------------------------------------------------
+./countlines in1                    : 0   of 4  
+./countlines in2                    : 0   of 4  
+./countlines hamlet                 : 0   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Sun Jan 29 16:19:25 EST 2017
+-------------------------------------------------
+./countlines in1                    : 0   of 4  
+./countlines in2                    : 0   of 4  
+./countlines hamlet                 : 0   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Sun Jan 29 16:22:36 EST 2017
+-------------------------------------------------
+./countlines in1                    : 0   of 4  
+./countlines in2                    : 0   of 4  
+./countlines hamlet                 : 0   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Sun Jan 29 16:24:18 EST 2017
+-------------------------------------------------
+./countlines in1                    : 0   of 4  
+./countlines in2                    : 0   of 4  
+./countlines hamlet                 : 0   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Sun Jan 29 16:25:10 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Sun Jan 29 16:31:30 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Sun Jan 29 16:36:42 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Sun Jan 29 16:41:29 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Sun Jan 29 16:43:54 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Sun Jan 29 16:44:32 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Sun Jan 29 16:53:28 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Sun Jan 29 16:57:36 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Sun Jan 29 17:02:12 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Sun Jan 29 17:02:33 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Sun Jan 29 17:03:41 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Sun Jan 29 17:05:04 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  22 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Mon Jan 30 11:46:43 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  22 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Mon Jan 30 17:04:32 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  22 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Mon Jan 30 17:22:38 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  22 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Mon Jan 30 17:24:19 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  22 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Mon Jan 30 17:25:33 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  22 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Mon Jan 30 19:03:30 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  22 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Mon Jan 30 19:04:19 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  22 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Mon Jan 30 19:07:03 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Tue Jan 31 16:40:10 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 12:15:43 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 12:19:14 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 13:03:20 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 13:05:32 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 13:06:35 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 13:18:44 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 13:22:15 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 13:31:19 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 13:32:17 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 13:47:43 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  22 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 13:48:29 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 13:48:59 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 13:52:29 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 13:55:04 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 13:57:33 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 13:58:34 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:03:54 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:05:30 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:06:51 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:08:05 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:09:20 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:10:09 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:15:21 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:17:40 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:18:20 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  35 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:19:15 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:20:31 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  35 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:21:21 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:26:09 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:28:29 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:29:14 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:30:01 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:32:39 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:44:28 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:50:44 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:51:42 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:52:19 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:54:01 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:54:35 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  35 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 14:58:43 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 15:00:15 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  47 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 15:00:49 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  47 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 15:02:14 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 16:45:04 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 16:46:55 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 16:53:33 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  53 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 16:54:02 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  53 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 18:59:22 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  47 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 19:01:53 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  47 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 19:05:54 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  47 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 19:06:19 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  53 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 19:11:22 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  59 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Feb  1 19:20:29 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  68 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Thu Feb  2 07:53:46 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  68 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Thu Feb  2 07:55:05 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  68 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Thu Feb  2 07:58:44 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  71 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Thu Feb  2 08:02:11 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  71 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Thu Feb  2 08:03:29 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  71 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. nmeier   
+Wed Mar  8 12:06:17 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  71 of 100
+

@@ -1,0 +1,4 @@
+mytest test1                        : 7   of 7  
+mytest test2                        : 7   of 7  
+mytest test3                        : 8   of 8  
+mytest test4                        : 8   of 8  
